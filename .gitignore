@@ -13,9 +13,10 @@ broadcast/*
 docs/
 
 # Dotenv file
-.env
 
 # scripts
 arb.sh
 
 foundry.toml
+config.bat
+node_modules
